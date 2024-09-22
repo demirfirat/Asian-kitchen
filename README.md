@@ -1,6 +1,7 @@
 # Asian Kitchen
 
 JavaScript ve Bootstrap kullanılarak oluşturulmuş basit bir Asian Kitchen web sitesi. Bu proje, bir restoranın menüsü  ve diğer çeşitli bölümleri içeren modern ve duyarlı bir tasarım sunar. Küçük bir restoran web sitesi için ideal bir başlangıç noktasıdır.
+![image](https://github.com/user-attachments/assets/9ad0eb2e-3a97-446e-bc21-38edea79a76b)
 
 ##  Demo
 
