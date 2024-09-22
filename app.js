@@ -127,10 +127,7 @@ const categoryList = () => {
 const menuList = (menuItems) => {
   let displayMenu = menuItems.map((item) => {
     return `<div class="menu-items col-lg-6 col-sm-12">
-    <img 
-      src=${item.img}
-      alt=${item.title}
-      class="photo"/>
+    <img src=${item.img} alt=${item.title} class="photo"/>
       <div class="menu-info">
         <div class="menu-title">
           <h4>${item.title}</h4>
